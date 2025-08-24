@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="bob_OOF_assets" icon="bob" color="#c9d0e1" x="-670" y="155" flipX="true" camx="-320" camy="50">
+	<anim name="firstDeath" anim="myhead" fps="11.5" indices="0..15,15,15,15,15,15,15,15,15,15,15,15,15,15,15"/>
+	<anim name="deathLoop" anim="myhead" fps="12" indices="15"/>
+	<anim name="deathConfirm" anim="myhead" fps="12" indices="15"/>
+</character>

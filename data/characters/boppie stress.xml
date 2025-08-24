@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="boppie_STRESS_assets" icon="boppieSM" color="#777c8c" x="-370" y="-100" camx="-140" camy="60">
+	<anim name="idle" anim="idle" x="0" y="251" loop="true"/>
+	<anim name="singLEFT" anim="left" x="0" y="251" fps="12"/>
+	<anim name="singRIGHT" anim="right" x="0" y="251" fps="12"/>
+	<anim name="singDOWN" anim="down" x="0" y="251" fps="12"/>
+	<anim name="singUP" anim="up" x="0" y="251" fps="12"/>
+</character>

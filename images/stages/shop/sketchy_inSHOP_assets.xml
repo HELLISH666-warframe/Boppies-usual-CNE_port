@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="sketchy_inSHOP_assets.png" width="1976" height="845">
+  <SubTexture name="e0" x="0" y="0"  width="504" height="425" frameX="-49" frameY="-82" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="well0" x="504" y="0"  width="504" height="425" frameX="-49" frameY="-82" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="happy0" x="1008" y="0"  width="504" height="424" frameX="-49" frameY="-83" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="hi0" x="1512" y="0"  width="464" height="425" frameX="-49" frameY="-82" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="huh0" x="1008" y="424"  width="504" height="414" frameX="-49" frameY="-93" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="smile0" x="1512" y="425"  width="431" height="420" frameX="-49" frameY="-87" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="sad0" x="0" y="425"  width="426" height="420" frameX="-49" frameY="-87" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="ron_FNF_assets" icon="ron" color="#dcb445" x="-320" y="-35" camx="-200" camy="80">
+	<anim name="idle" anim="idle" fps="12"/>
+	<anim name="singLEFT" anim="left" x="10" y="3" fps="12"/>
+	<anim name="singRIGHT" anim="right" x="-16" y="0" fps="12"/>
+	<anim name="singDOWN" anim="down" x="0" y="-12" fps="12"/>
+	<anim name="singUP" anim="up" fps="12"/>
+	<anim name="died" anim="noooo" fps="12" indices="0..2,2,2,3,3..5,5,5,6,6,7,7,7,7,7"/>
+	<anim name="whoops" anim="whoops" fps="12"/>
+</character>

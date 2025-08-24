@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="converterBrrr.png" width="253" height="1504">
+  <SubTexture name="converter0000" x="0" y="0"  width="253" height="376" frameX="-0" frameY="-0" frameWidth="253" frameHeight="376"/>
+  <SubTexture name="converter0001" x="0" y="376"  width="253" height="376" frameX="-0" frameY="-0" frameWidth="253" frameHeight="376"/>
+  <SubTexture name="converter0002" x="0" y="752"  width="253" height="376" frameX="-0" frameY="-0" frameWidth="253" frameHeight="376"/>
+  <SubTexture name="converter0003" x="0" y="1128"  width="253" height="376" frameX="-0" frameY="-0" frameWidth="253" frameHeight="376"/>
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" folder="stages/Resistance/">
+	<player x="600" y="470" camxoffset="1900" camyoffset="0" />
+	<opponent x="900" y="450" camxoffset="0" camyoffset="0" />
+</stage>

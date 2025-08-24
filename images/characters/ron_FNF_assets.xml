@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="ron_FNF_assets.png" width="2998" height="3492">
+  <SubTexture name="noooo0" x="5" y="5"  width="808" height="763" frameX="-221" frameY="-41" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="noooo1" x="823" y="5"  width="709" height="779" frameX="-311" frameY="-42" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="noooo2" x="5" y="778"  width="703" height="778" frameX="-315" frameY="-43" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="lmao0" x="1542" y="5"  width="607" height="609" frameX="-22" frameY="-382" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="left1" x="2159" y="5"  width="579" height="567" frameX="-40" frameY="-234" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="noooo3" x="2159" y="582"  width="577" height="702" frameX="-315" frameY="-119" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="left0" x="1542" y="624"  width="576" height="568" frameX="-38" frameY="-233" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="noooo4" x="718" y="794"  width="543" height="727" frameX="-315" frameY="-94" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="noooo5" x="1271" y="1202"  width="538" height="727" frameX="-315" frameY="-94" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="idle0" x="1819" y="1202"  width="328" height="551" frameX="-313" frameY="-251" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="noooo6" x="718" y="1531"  width="486" height="727" frameX="-315" frameY="-94" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="noooo7" x="5" y="1566"  width="478" height="667" frameX="-315" frameY="-154" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="right0" x="5" y="2243"  width="440" height="569" frameX="-344" frameY="-231" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="right1" x="2157" y="1294"  width="429" height="564" frameX="-344" frameY="-236" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="idle1" x="1819" y="1763"  width="319" height="565" frameX="-319" frameY="-237" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="idle3" x="2596" y="1294"  width="314" height="570" frameX="-321" frameY="-232" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="down0" x="2148" y="1868"  width="425" height="473" frameX="-285" frameY="-348" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="up1" x="2583" y="1874"  width="410" height="411" frameX="-272" frameY="-204" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="up0" x="2583" y="2295"  width="403" height="442" frameX="-275" frameY="-193" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="down1" x="1214" y="1939"  width="419" height="492" frameX="-286" frameY="-329" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="whoops0" x="1643" y="2338"  width="314" height="570" frameX="-321" frameY="-232" frameWidth="1100" frameHeight="1000"/>
+  <SubTexture name="idle2" x="1643" y="2918"  width="314" height="569" frameX="-321" frameY="-233" frameWidth="1100" frameHeight="1000"/>
+</TextureAtlas>

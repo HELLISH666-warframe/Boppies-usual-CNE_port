@@ -1,0 +1,13 @@
+{
+	"params": [
+        {
+			"name": "true_or_false",
+			"type": "DropDown(true, false, null)",
+			"defValue": "null"
+		}, {
+			"name": "hudZoom",
+			"type": "String",
+			"defaultValue": null
+		}
+	]
+}

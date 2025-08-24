@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bob_THINK_assets.png" width="2813" height="2415">
+  <SubTexture name="right0000" x="30" y="30"  width="438" height="740" frameX="-211" frameY="-654" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="right0001" x="528" y="30"  width="428" height="740" frameX="-211" frameY="-654" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="left0000" x="1016" y="30"  width="399" height="746" frameX="-169" frameY="-648" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="up0001" x="30" y="830"  width="398" height="754" frameX="-216" frameY="-622" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="left0001" x="488" y="830"  width="397" height="744" frameX="-178" frameY="-650" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="up0000" x="1475" y="30"  width="396" height="763" frameX="-218" frameY="-613" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="idle0003" x="945" y="836"  width="396" height="742" frameX="-211" frameY="-653" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="idle0004" x="488" y="1634"  width="396" height="742" frameX="-211" frameY="-652" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="idle0002" x="30" y="1644"  width="396" height="741" frameX="-211" frameY="-659" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="idle0000" x="1931" y="30"  width="396" height="737" frameX="-211" frameY="-667" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="idle0001" x="2387" y="30"  width="396" height="737" frameX="-211" frameY="-668" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="down0000" x="1931" y="827"  width="396" height="695" frameX="-202" frameY="-699" frameWidth="792" frameHeight="1424"/>
+  <SubTexture name="down0001" x="1401" y="853"  width="390" height="708" frameX="-206" frameY="-686" frameWidth="792" frameHeight="1424"/>
+</TextureAtlas>

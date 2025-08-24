@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="BOB_playable_assets.png" width="1857" height="3920">
+  <SubTexture name="up0000" x="3" y="3"  width="377" height="583" frameX="-709" frameY="-18" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="up0001" x="3" y="592"  width="393" height="580" frameX="-705" frameY="-21" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="upmiss0001" x="386" y="3"  width="380" height="580" frameX="-706" frameY="-20" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="upmiss0000" x="3" y="1178"  width="370" height="580" frameX="-710" frameY="-20" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="leftmiss0000" x="3" y="1764"  width="376" height="468" frameX="-626" frameY="-136" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="leftmiss0001" x="379" y="1178"  width="373" height="468" frameX="-631" frameY="-135" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="inurface!" x="379" y="1652"  width="230" height="102" frameX="-104" frameY="-117" frameWidth="345" frameHeight="423"/>
+  <SubTexture name="hey!!0000" x="402" y="589"  width="391" height="433" frameX="-691" frameY="-173" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="arm" x="402" y="1028"  width="173" height="132" frameX="-77" frameY="-197" frameWidth="345" frameHeight="423"/>
+  <SubTexture name="rightmiss0000" x="772" y="3"  width="313" height="430" frameX="-790" frameY="-178" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="rightmiss0001" x="3" y="2238"  width="311" height="430" frameX="-788" frameY="-179" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="right0001" x="3" y="2674"  width="315" height="426" frameX="-784" frameY="-175" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="right0000" x="320" y="2238"  width="314" height="426" frameX="-789" frameY="-174" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="hey!!0001" x="385" y="1760"  width="382" height="423" frameX="-695" frameY="-178" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="left0001" x="758" y="1028"  width="366" height="423" frameX="-632" frameY="-178" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="body" x="758" y="1457"  width="228" height="265" frameX="-117" frameY="-158" frameWidth="345" frameHeight="423"/>
+  <SubTexture name="idle0004" x="799" y="439"  width="345" height="423" frameX="-666" frameY="-178" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="left0000" x="1130" y="3"  width="373" height="422" frameX="-623" frameY="-180" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="idle0003" x="1509" y="3"  width="345" height="422" frameX="-666" frameY="-179" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="idle0002" x="3" y="3106"  width="353" height="410" frameX="-658" frameY="-191" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="downmiss0001" x="324" y="2670"  width="317" height="403" frameX="-706" frameY="-198" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="idle0000" x="640" y="2189"  width="354" height="398" frameX="-658" frameY="-203" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="idle0001" x="773" y="1728"  width="365" height="397" frameX="-647" frameY="-204" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="head" x="1000" y="1457"  width="229" height="216" frameX="-115" frameY="-0" frameWidth="345" frameHeight="423"/>
+  <SubTexture name="hand" x="1235" y="1457"  width="146" height="202" frameX="-0" frameY="-146" frameWidth="345" frameHeight="423"/>
+  <SubTexture name="downmiss0000" x="3" y="3522"  width="320" height="395" frameX="-699" frameY="-207" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="down0001" x="329" y="3522"  width="318" height="376" frameX="-702" frameY="-225" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="down0000" x="362" y="3079"  width="324" height="368" frameX="-694" frameY="-234" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

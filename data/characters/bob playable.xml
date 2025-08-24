@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="BOB_playable_assets" icon="bob" color="#c9d0e1" x="-670" y="155" flipX="true" camx="-320" camy="50">
+	<anim name="idle" anim="idle" fps="12"/>
+	<anim name="singLEFT" anim="left0" fps="12"/>
+	<anim name="singDOWN" anim="down0" fps="12"/>
+	<anim name="singUP" anim="up0" fps="12"/>
+	<anim name="singRIGHT" anim="right0" fps="12"/>
+	<anim name="singLEFTmiss" anim="leftmiss" fps="12"/>
+	<anim name="singRIGHTmiss" anim="rightmiss" fps="12"/>
+	<anim name="hey" anim="hey!!" fps="12"/>
+	<anim name="singUPmiss" anim="upmiss" fps="12"/>
+	<anim name="singDOWNmiss" anim="downmiss" fps="12"/>
+</character>

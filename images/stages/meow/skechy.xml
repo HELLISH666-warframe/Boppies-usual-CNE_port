@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="skechy.png" width="470" height="1460">
+  <SubTexture name="skechy0003" x="0" y="0"  width="232" height="492" frameX="-468" frameY="-575" frameWidth="3208" frameHeight="1887"/>
+  <SubTexture name="skechy0002" x="0" y="492"  width="233" height="491" frameX="-468" frameY="-576" frameWidth="3208" frameHeight="1887"/>
+  <SubTexture name="skechy0001" x="232" y="0"  width="238" height="487" frameX="-466" frameY="-580" frameWidth="3208" frameHeight="1887"/>
+  <SubTexture name="skechy0000" x="0" y="983"  width="241" height="477" frameX="-464" frameY="-590" frameWidth="3208" frameHeight="1887"/>
+</TextureAtlas>

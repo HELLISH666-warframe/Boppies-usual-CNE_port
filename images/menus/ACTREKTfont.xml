@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="ACTREKTfont.png" width="1447" height="56">
+  <SubTexture name="X bold0000" x="0" y="0"  width="60" height="56" frameX="-0" frameY="-0" frameWidth="60" frameHeight="56"/>
+  <SubTexture name="Z bold0000" x="60" y="0"  width="60" height="56" frameX="-0" frameY="-0" frameWidth="60" frameHeight="56"/>
+  <SubTexture name="M bold0000" x="120" y="0"  width="59" height="56" frameX="-0" frameY="-0" frameWidth="59" frameHeight="56"/>
+  <SubTexture name="V bold0000" x="179" y="0"  width="59" height="56" frameX="-0" frameY="-0" frameWidth="59" frameHeight="56"/>
+  <SubTexture name="W bold0000" x="238" y="0"  width="59" height="56" frameX="-0" frameY="-0" frameWidth="59" frameHeight="56"/>
+  <SubTexture name="Y bold0000" x="297" y="0"  width="59" height="56" frameX="-0" frameY="-0" frameWidth="59" frameHeight="56"/>
+  <SubTexture name="K bold0000" x="356" y="0"  width="58" height="56" frameX="-0" frameY="-0" frameWidth="58" frameHeight="56"/>
+  <SubTexture name="R bold0000" x="414" y="0"  width="57" height="56" frameX="-0" frameY="-0" frameWidth="57" frameHeight="56"/>
+  <SubTexture name="A bold0000" x="471" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="B bold0000" x="527" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="C bold0000" x="583" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="D bold0000" x="639" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="E bold0000" x="695" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="F bold0000" x="751" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="G bold0000" x="807" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="H bold0000" x="863" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="J bold0000" x="919" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="L bold0000" x="975" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="N bold0000" x="1031" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="O bold0000" x="1087" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="P bold0000" x="1143" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="Q bold0000" x="1199" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="S bold0000" x="1255" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="T bold0000" x="1311" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="U bold0000" x="1367" y="0"  width="56" height="56" frameX="-0" frameY="-0" frameWidth="56" frameHeight="56"/>
+  <SubTexture name="I bold0000" x="1423" y="0"  width="24" height="56" frameX="-0" frameY="-0" frameWidth="24" frameHeight="56"/>
+</TextureAtlas>

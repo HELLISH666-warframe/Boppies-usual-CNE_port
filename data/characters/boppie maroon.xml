@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="boppie_MAROON_oa" icon="boppie" color="#777c8c" x="-250" y="150" camx="-270" camy="10">
+	<anim name="idle" anim="idle" x="150" y="51" fps="12"/>
+	<anim name="singLEFT" anim="left" x="-17" y="51" fps="12"/>
+	<anim name="singRIGHT" anim="right" x="170" y="48" fps="12"/>
+	<anim name="singUP" anim="up" x="129" y="232" fps="15" indices="0,2"/>
+	<anim name="singDOWN" anim="down" x="165" y="67" fps="18"/>
+	<anim name="singDOWN-loop" anim="down" x="165" y="67" fps="18" indices="4..7"/>
+	<anim name="singLEFT-loop" anim="left" x="-17" y="51" fps="12" loop="true" indices="4..7"/>
+	<anim name="singRIGHT-loop" anim="right" x="170" y="48" fps="12" loop="true" indices="4..7"/>
+	<anim name="singUP-loop" anim="up" x="129" y="232" fps="15" loop="true" indices="4..7"/>
+</character>

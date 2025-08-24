@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="BoppersUsualLmao.png" width="990" height="1697">
+  <SubTexture name="danceRight0000" x="3" y="3"  width="374" height="424" frameX="-2221" frameY="-642" frameWidth="3232" frameHeight="1702"/>
+  <SubTexture name="danceRight0001" x="3" y="433"  width="375" height="423" frameX="-2220" frameY="-643" frameWidth="3232" frameHeight="1702"/>
+  <SubTexture name="danceLeft0002" x="383" y="3"  width="375" height="422" frameX="-2220" frameY="-644" frameWidth="3232" frameHeight="1702"/>
+  <SubTexture name="danceLeft0001" x="3" y="862"  width="375" height="419" frameX="-2220" frameY="-647" frameWidth="3232" frameHeight="1702"/>
+  <SubTexture name="danceLeft0000" x="3" y="1287"  width="376" height="407" frameX="-2219" frameY="-659" frameWidth="3232" frameHeight="1702"/>
+  <SubTexture name="aaaaaaaaaayeaaaaaa0002" x="384" y="431"  width="297" height="251" frameX="-40" frameY="-79" frameWidth="392" frameHeight="381"/>
+  <SubTexture name="aaaaaaaaaayeaaaaaa0001" x="384" y="688"  width="316" height="227" frameX="-40" frameY="-103" frameWidth="392" frameHeight="381"/>
+  <SubTexture name="aaaaaaaaaayeaaaaaa0000" x="687" y="431"  width="300" height="213" frameX="-40" frameY="-117" frameWidth="392" frameHeight="381"/>
+  <SubTexture name="hahacoolman0001" x="384" y="921"  width="126" height="171" frameX="-2400" frameY="-909" frameWidth="3232" frameHeight="1702"/>
+  <SubTexture name="hahacoolman0002" x="384" y="1098"  width="126" height="170" frameX="-2400" frameY="-910" frameWidth="3232" frameHeight="1702"/>
+  <SubTexture name="hahacoolman0000" x="764" y="3"  width="129" height="165" frameX="-2398" frameY="-915" frameWidth="3232" frameHeight="1702"/>
+  <SubTexture name="danceRight0002" x="383" y="3"  width="375" height="422" frameX="-2220" frameY="-644" frameWidth="3232" frameHeight="1702"/>
+</TextureAtlas>
